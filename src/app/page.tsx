@@ -71,13 +71,13 @@ export default function Home() {
       <section className="hero section-shell" id="top">
         <div className="hero-copy">
           <h1>Sport consistenter met een AI coach <span>die met je meebeweegt</span></h1>
-          <p>Voor jongeren en jongvolwassenen die wel willen sporten, maar vastlopen op motivatie, structuur en te veel fitnessadvies tegelijk.</p>
           <div className="hero-actions">
             <a className="primary-button" href="#waitlist">Ontvang Early Access <span aria-hidden="true">&rarr;</span></a>
           </div>
           <div className="trust-row" aria-label="Productbeloftes">
             <span>Gebouwd voor jouw ritme</span>
-            <span>Geen hardcore fitnessdruk</span>
+            <span>Geen fitnessdruk</span>
+            <span>Geen hoge kosten van een personal trainer</span>
             <span>Early access opent binnenkort</span>
           </div>
           <div className="proof-grid" aria-label="Waarom aanmelden">
